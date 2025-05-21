@@ -43,11 +43,11 @@ Actionable Recommendations for 2025: Strategic proposals for workload management
 The primary deliverable is a Power BI file (.pbix). To view the interactive dashboard, you will need Power BI Desktop installed.
 Power BI Project File & Supporting Documents: Google Drive Link
 
-🔗 My Portfolio & Profiles
+🔗 My Portfolio & Profiles (https://drive.google.com/drive/folders/1a8aGhSuOGtW-_4z7i-s1JZHQw3wL287t?usp=sharing)
 
-LinkedIn: Mahmoud Ali
+LinkedIn: Mahmoud Ali (https://www.linkedin.com/in/mahmoud-ali-349333299?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrrirSTm8T1meguCzpWuadw%3D%3D)
 
-Personal Portfolio Website: Mahmoud Ali - Data Analyst
+Personal Portfolio Website: Mahmoud Ali - Data Analyst (https://mahmoud-ali-data-analyst-d6q4ghw.gamma.site/)
 
 This GitHub Repository: Data-Analysis-Second-Challenge
 🙏 Acknowledgements
